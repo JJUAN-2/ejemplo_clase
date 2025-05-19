@@ -66,4 +66,3 @@ class DataAnalyzer:
         else:
             print("Columna no válida.")
             return None
-s
